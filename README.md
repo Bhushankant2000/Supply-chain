@@ -18,4 +18,4 @@ DAX (Data Analysis Expressions) – KPI calculations and business metrics.
 
 
 4.Screenshot
-Dashboard preview:
+Dashboard preview:https://github.com/Bhushankant2000/Supply-chain/blob/main/Snapshot%20of%20the%20dashboard.png
