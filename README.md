@@ -12,8 +12,11 @@ It is designed to help businesses identify inefficiencies, improve delivery reli
 
 3. Tech Stack
 Power BI Desktop – Data modeling, DAX calculations, and interactive dashboard development.
+
 Microsoft Excel / CSV Files – Raw data storage and preprocessing.
+
 Power Query – Data cleaning, transformation, and shaping.
+
 DAX (Data Analysis Expressions) – KPI calculations and business metrics.
 
 
